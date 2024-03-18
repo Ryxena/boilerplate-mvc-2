@@ -34,12 +34,11 @@ class App
         //Run Controller.php
         call_user_func([$this->controller, $this->method], $this->params);
     }
-    public function parseURL()
-    {
+    public function parseURL(){
         if (isset($_GET["url"])) {
-            $url = rtrim($_GET["url"], '/');
+            $url = rtrim($_GET["url"], "/");
             $url = filter_var($url, FILTER_SANITIZE_URL);
-            $url = explode($url, '/');
+            $url = explode('/',$url);
             return $url;
         }
     }
