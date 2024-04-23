@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $data['title'] ?></title>
-    <link href="../public/css/bootstrap.min.css" rel="stylesheet">
-    <!-- <link href="https://cdn.datatables.net/v/bs5/dt-2.0.1/af-2.7.0/datatables.min.css" rel="stylesheet"> -->
-    <!-- <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.0.1/af-2.7.0/b-3.0.0/datatables.min.css" rel="stylesheet"> -->
- 
-    <link rel="stylesheet" href="../public/css/sweetalert2.css">
+    <link href="<?=BASE_URL;?>/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/v/bs5/dt-2.0.1/af-2.7.0/datatables.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.0.1/af-2.7.0/b-3.0.0/datatables.min.css" rel="stylesheet">
+
+    <!-- <link rel="stylesheet" href="../public/css/sweetalert2.css"> -->
 </head>
 <body>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
