@@ -1,100 +1,200 @@
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Dirja', 6115, 'lpranowo@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Paulin', 5576, 'zalindrahidayanto@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Dodo', 9086, 'jatmikowahyudin@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Kayla', 2541, 'umipratiwi@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Dalimin', 3960, 'esinaga@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Budi', 7662, 'candrakantakusmawati@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Laswi', 7010, 'arsipatra80@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Tina', 9012, 'kartika17@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Tirtayasa', 5797, 'zgunarto@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Murti', 2691, 'adinatapadmasari@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Okta', 8782, 'mulyono66@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Ozy', 7733, 'kuncara31@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Lembah', 6584, 'zlaksmiwati@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Wirda', 9522, 'elvinalailasari@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Kania', 3181, 'zalindralatupono@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Ajeng', 8070, 'gildahakim@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Michelle', 5390, 'vimansudiati@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Ellis', 6480, 'ilsa46@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Cinthia', 9460, 'abyasa74@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Baktiadi', 1080, 'hana31@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Victoria', 9887, 'uwaisgalar@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Uda', 8072, 'onamaga@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Lanang', 6420, 'dsitompul@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Uda', 9596, 'mangunsongdarijan@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Nugraha', 8502, 'rusman11@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Rachel', 4038, 'padmasariumar@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Rama', 8191, 'usmanlestari@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Martana', 2411, 'gilang26@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Cahyadi', 6221, 'tarihoranbaktianto@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Mitra', 7029, 'rudi28@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Jaswadi', 3012, 'donosafitri@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Chelsea', 3498, 'zgunawan@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Jono', 3910, 'ginasimbolon@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Kenari', 6482, 'ajengrajasa@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Gadang', 5618, 'waluyohilda@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Jatmiko', 1426, 'dariminpadmasari@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Adiarja', 5226, 'widiastutiwirda@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Kiandra', 9094, 'gusada@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Galang', 5243, 'eluhhutapea@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Kenari', 4577, 'jefri11@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Darijan', 8119, 'cemanilazuardi@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Jarwa', 6793, 'lpranowo@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Heryanto', 7749, 'kuswandarimujur@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Wakiman', 5466, 'elonandriani@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Diah', 5943, 'zwulandari@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Manah', 4095, 'rirawan@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Jaya', 6209, 'handayanijane@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Lukita', 1321, 'jamil20@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Artawan', 7928, 'mustofa12@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Sakti', 4434, 'gangsausada@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Harjasa', 2020, 'faridacakrajiya@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Paramita', 6301, 'lala84@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Aswani', 6707, 'wani98@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Laras', 5785, 'osaefullah@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Tedi', 9981, 'hutagalungwarji@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Emin', 6413, 'ynapitupulu@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Ganda', 2841, 'ulva32@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Eman', 2189, 'kasusra99@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Talia', 2064, 'ugunarto@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Ghaliyati', 1457, 'zpratama@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Uda', 1414, 'suwarnogandi@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Gading', 1350, 'xpermadi@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Nurul', 5672, 'rpurwanti@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Wira', 5490, 'langgengbudiyanto@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Kanda', 4503, 'zulkarnaincaket@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Ivan', 9389, 'yogariyanti@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Wahyu', 8144, 'karimah54@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Aris', 3394, 'kenari50@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Septi', 4122, 'pranowosatya@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Daryani', 3742, 'rsitumorang@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Pia', 8612, 'asirwanda88@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Emin', 9461, 'marwata13@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Gatra', 7582, 'asmuninamaga@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Emong', 7383, 'dacin49@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Taufik', 9218, 'capamaulana@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Gina', 9399, 'usmanwastuti@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Ami', 9286, 'martani04@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Salsabila', 3027, 'hartaka23@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Rangga', 9185, 'suwarnopanji@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Nadine', 8990, 'nnasyidah@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Karta', 8719, 'atarihoran@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Capa', 3008, 'irma99@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Aris', 5613, 'lalitapradipta@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Karma', 7017, 'gunawankawaca@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Zelda', 9798, 'siregarwani@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Warji', 2290, 'ewidiastuti@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Halim', 1134, 'friyanti@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Dwi', 6538, 'mmanullang@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Almira', 2661, 'hutasoitlidya@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Uchita', 8484, 'igunarto@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Juli', 5826, 'cmustofa@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Almira', 5160, 'ciaobella62@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Karma', 4554, 'hwastuti@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Daru', 2073, 'bpadmasari@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Yance', 9316, 'cahyono52@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Muhammad', 7388, 'indah96@example.org', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Sabri', 4741, 'lintang71@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Fitriani', 6514, 'laksitaade@example.com', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Warta', 4643, 'damanikyusuf@example.net', 'OTKP');
-INSERT INTO `mahasiswa` (`id`, `nama`, `nrp`, `email`, `jurusan`) VALUES (NULL, 'Gilang', 1378, 'mahdinasyidah@example.org', 'OTKP');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000001', '2012-04-21', '11 OTKP 4', 'Salwa Sinaga', 'Perempuan', 'Jalan Ahmad Dahlan No. 0
+Sabang, Jawa Timur 54756', 'narpatikamila@example.net', '2920741273458');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000002', '2003-04-18', '12 DKV 2', 'Dt. Bagya Winarno', 'Laki laki', 'Gg. Siliwangi No. 567
+Cirebon, PB 40988', 'kpradana@example.com', '0992599810359');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000003', '2001-10-28', '10 DKV 4', 'Joko Najmudin', 'Perempuan', 'Jl. Rajawali Timur No. 096
+Solok, PA 29111', 'argonorajasa@example.net', '9462234195377');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000004', '1985-07-13', '10 PPLG 1', 'Irfan Saragih', 'Perempuan', 'Jl. Kutisari Selatan No. 81
+Pasuruan, GO 95745', 'yharyanti@example.org', '0318965660851');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000005', '2017-09-17', '11 PM 2', 'Sidiq Hakim', 'Laki laki', 'Jalan Ahmad Yani No. 9
+Kota Administrasi Jakarta Pusat, BA 60693', 'emaryadi@example.net', '4969206443801');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000006', '2012-03-09', '10 PM 4', 'Endah Habibi, S.E.I', 'Perempuan', 'Gang Wonoayu No. 94
+Mojokerto, MA 59799', 'mnasyidah@example.com', '8797228916273');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000007', '2002-12-27', '11 MPLB 5', 'Alika Manullang', 'Laki laki', 'Jalan Rumah Sakit No. 74
+Pasuruan, JI 31738', 'manullanglimar@example.com', '2749442923898');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000008', '1983-04-16', '12 PPLG 1', 'Gamani Nasyidah', 'Laki laki', 'Jalan Jayawijaya No. 738
+Tual, PB 98119', 'aurora51@example.com', '5545067816008');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000009', '2020-06-23', '10 PM 1', 'Ir. Kayla Wijaya, S.Pd', 'Perempuan', 'Gang Ronggowarsito No. 6
+Salatiga, NB 23516', 'itarihoran@example.org', '6850507953469');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000010', '1990-04-09', '12 MPLB 2', 'Icha Suwarno, S.Farm', 'Perempuan', 'Gang Indragiri No. 8
+Padang, KI 93521', 'asmunimaheswara@example.net', '4974439381350');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000011', '1985-06-29', '12 DKV 1', 'Warji Permata', 'Laki laki', 'Gang R.E Martadinata No. 178
+Surakarta, SB 30400', 'dasa21@example.net', '4890107872326');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000012', '2021-06-28', '11 MPLB 5', 'Asmianto Wasita', 'Laki laki', 'Jalan Jend. A. Yani No. 14
+Tomohon, Sulawesi Barat 18180', 'sudiatisatya@example.com', '5151496713026');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000013', '2012-09-01', '11 TJKT 4', 'Yunita Mansur, S.Psi', 'Laki laki', 'Gang Sentot Alibasa No. 8
+Tegal, SB 18296', 'samosirmaya@example.net', '8183457894935');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000014', '1971-02-18', '10 OTKP 5', 'Rina Pertiwi', 'Perempuan', 'Jalan Veteran No. 188
+Salatiga, SR 43061', 'pradiptaida@example.net', '7840188768376');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000015', '1983-05-13', '10 OTKP 3', 'Among Gunawan', 'Perempuan', 'Gang Cihampelas No. 578
+Sorong, Kepulauan Riau 40917', 'rajataratih@example.com', '3160037375851');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000016', '1992-11-30', '10 PM 4', 'Latika Gunawan', 'Perempuan', 'Gang BKR No. 99
+Ternate, KB 87108', 'kusmawatigada@example.net', '7983399010302');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000017', '1998-06-29', '10 MPLB 3', 'Usyi Nasyiah, S.Sos', 'Laki laki', 'Jalan Kutai No. 5
+Bengkulu, Kalimantan Selatan 11387', 'kardihardiansyah@example.org', '6841797274759');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000018', '2012-07-03', '10 PPLG 1', 'Dwi Simanjuntak', 'Perempuan', 'Jl. Cikapayang No. 8
+Banda Aceh, LA 08661', 'magustina@example.com', '9420583690782');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000019', '1991-06-10', '10 PM 4', 'Ilsa Mahendra', 'Laki laki', 'Gg. Suryakencana No. 8
+Tasikmalaya, Bengkulu 00340', 'damarlatupono@example.com', '1041763499438');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000020', '2012-11-22', '11 DKV 1', 'Balangga Widodo, M.TI.', 'Laki laki', 'Gg. Waringin No. 6
+Semarang, BT 94654', 'indraprasetyo@example.net', '6509057368567');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000021', '1984-08-09', '10 DKV 3', 'R.A. Irma Napitupulu, S.Gz', 'Laki laki', 'Gg. Cikapayang No. 807
+Malang, Kalimantan Selatan 41042', 'sharyanti@example.com', '8940701540018');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000022', '2021-10-19', '11 OTKP 1', 'Rachel Sihotang', 'Perempuan', 'Jalan Siliwangi No. 622
+Lhokseumawe, Nusa Tenggara Timur 30758', 'malikawahyuni@example.com', '6012580765126');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000023', '1989-06-27', '11 OTKP 4', 'Cahyanto Kuswandari', 'Laki laki', 'Jalan Indragiri No. 299
+Pangkalpinang, Jawa Barat 35093', 'cemani77@example.org', '6260134529387');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000024', '2019-05-07', '11 PM 1', 'Danuja Sitompul', 'Laki laki', 'Jalan Sentot Alibasa No. 81
+Palu, KR 49878', 'aswanirahmawati@example.net', '1394184109839');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000025', '1979-05-09', '12 MPLB 3', 'Widya Palastri', 'Laki laki', 'Gg. Peta No. 649
+Bitung, Jawa Tengah 12728', 'kenzie52@example.com', '7230168593246');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000026', '2003-10-15', '12 PPLG 2', 'Gatra Habibi, S.E.', 'Laki laki', 'Jalan HOS. Cokroaminoto No. 1
+Ambon, NB 50415', 'kasiyahhalim@example.com', '0880125427110');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000027', '1986-07-21', '10 OTKP 3', 'Drs. Vega Maheswara, M.Pd', 'Perempuan', 'Jl. Sukajadi No. 808
+Bekasi, Riau 25673', 'pardi23@example.net', '9023898251794');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000028', '1987-10-13', '12 OTKP 5', 'Prima Prasasta', 'Perempuan', 'Gg. Sukabumi No. 15
+Palangkaraya, KR 60462', 'cintathamrin@example.org', '4586336435924');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000029', '1976-05-15', '10 DKV 5', 'Gangsar Saragih', 'Perempuan', 'Jl. Gardujati No. 26
+Binjai, SB 63467', 'lailasarigilda@example.net', '6867204167083');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000030', '1986-10-31', '11 DKV 3', 'Tami Wibisono', 'Laki laki', 'Jl. Gegerkalong Hilir No. 348
+Sungai Penuh, Riau 96115', 'gamblangriyanti@example.net', '4456353406808');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000031', '1994-05-06', '11 OTKP 2', 'R. Vanesa Pradana', 'Laki laki', 'Jalan Siliwangi No. 359
+Purwokerto, Maluku Utara 74242', 'viktor75@example.com', '9953103624445');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000032', '1992-02-28', '12 PPLG 4', 'Raisa Pranowo', 'Laki laki', 'Jalan Setiabudhi No. 2
+Bukittinggi, Kalimantan Selatan 36628', 'iswahyudijagaraga@example.net', '4395668518333');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000033', '2013-03-25', '10 DKV 1', 'Puti Hana Prasetya, S.Sos', 'Perempuan', 'Gang Pasteur No. 95
+Sawahlunto, MA 51648', 'mustofabanawa@example.com', '3923027880993');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000034', '1981-01-30', '12 TJKT 1', 'Utama Narpati', 'Laki laki', 'Jl. Pacuan Kuda No. 15
+Balikpapan, Kalimantan Timur 22959', 'amelia10@example.org', '6344304785898');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000035', '2015-02-17', '12 MPLB 3', 'Lili Suryatmi', 'Laki laki', 'Gg. Veteran No. 158
+Padang Sidempuan, Jambi 24342', 'vsimbolon@example.net', '2634368186174');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000036', '2020-05-08', '12 PPLG 2', 'Gadang Suwarno', 'Perempuan', 'Jalan Setiabudhi No. 17
+Batu, SS 65589', 'hakimkawaca@example.com', '1044609683108');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000037', '2009-07-20', '11 PPLG 4', 'H. Gaiman Hutasoit', 'Perempuan', 'Jl. Moch. Toha No. 6
+Probolinggo, MA 81161', 'vzulkarnain@example.net', '1269507249673');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000038', '1990-03-25', '12 PM 3', 'Sutan Lanang Suartini', 'Laki laki', 'Jl. K.H. Wahid Hasyim No. 695
+Tanjungbalai, Sumatera Utara 11929', 'padmasarikasusra@example.com', '1268351279853');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000039', '1984-05-07', '12 TJKT 4', 'Tgk. Indah Simbolon, S.Ked', 'Laki laki', 'Gg. PHH. Mustofa No. 6
+Bekasi, MA 16483', 'banawa58@example.org', '0520370235316');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000040', '2017-09-08', '11 PPLG 4', 'dr. Himawan Halim, S.I.Kom', 'Laki laki', 'Gang Lembong No. 1
+Cimahi, YO 77624', 'siti88@example.net', '9382324267032');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000041', '2013-08-10', '12 PM 1', 'Vera Hutagalung', 'Laki laki', 'Jl. Yos Sudarso No. 45
+Pekalongan, Sumatera Utara 09827', 'jabal66@example.org', '7953275812037');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000042', '1977-12-12', '12 TJKT 1', 'Sutan Indra Dongoran, M.Pd', 'Perempuan', 'Jl. BKR No. 896
+Padang Sidempuan, Sulawesi Tenggara 17837', 'budimantira@example.com', '2815132057951');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000043', '2015-03-14', '11 OTKP 3', 'H. Maryanto Simanjuntak, M.Farm', 'Laki laki', 'Gang Antapani Lama No. 7
+Denpasar, JT 07796', 'opansinaga@example.net', '4691386806621');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000044', '1981-07-14', '12 MPLB 3', 'Hani Yuliarti, M.Kom.', 'Perempuan', 'Jl. Indragiri No. 363
+Serang, DI Yogyakarta 79124', 'widiastuticakrabirawa@example.com', '9256428248097');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000045', '2014-12-12', '12 OTKP 1', 'Uli Mandala, S.Sos', 'Laki laki', 'Gang Pasteur No. 199
+Manado, Sulawesi Utara 05243', 'prabowokarsana@example.com', '5711253520856');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000046', '1977-03-31', '12 DKV 3', 'R.A. Maria Sitorus', 'Perempuan', 'Gang Gedebage Selatan No. 7
+Kota Administrasi Jakarta Barat, BA 34069', 'thidayanto@example.com', '3347682797194');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000047', '2020-12-19', '12 MPLB 4', 'Tgk. Ira Pranowo, S.Ked', 'Perempuan', 'Gg. Pasirkoja No. 191
+Pariaman, KS 62609', 'qsinaga@example.com', '3536614052003');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000048', '2022-09-30', '11 DKV 1', 'Yessi Agustina', 'Laki laki', 'Gang Gardujati No. 5
+Tidore Kepulauan, Banten 02585', 'unjani79@example.net', '5504833315231');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000049', '1994-08-14', '10 MPLB 1', 'Farah Anggraini', 'Laki laki', 'Gang K.H. Wahid Hasyim No. 65
+Tangerang Selatan, PB 75103', 'nwijayanti@example.org', '0092858617470');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000050', '1995-01-07', '10 DKV 5', 'Ghani Megantara', 'Perempuan', 'Jalan Rajiman No. 014
+Kota Administrasi Jakarta Pusat, KS 50034', 'damu12@example.com', '3849911741955');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000051', '1978-11-26', '10 OTKP 2', 'Bakiono Dabukke, S.Pt', 'Laki laki', 'Jl. BKR No. 90
+Prabumulih, Sulawesi Tenggara 26543', 'hakimdodo@example.org', '6657465728225');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000052', '1985-05-06', '10 DKV 3', 'Ajimin Zulkarnain', 'Perempuan', 'Jalan Tebet Barat Dalam No. 22
+Bandar Lampung, Lampung 74037', 'habibiuda@example.org', '9311689133001');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000053', '1983-11-07', '10 DKV 3', 'Diah Pangestu', 'Laki laki', 'Gang Rajiman No. 357
+Gorontalo, Sumatera Barat 36052', 'dsalahudin@example.com', '7809684384527');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000054', '1983-05-25', '12 TJKT 1', 'Jabal Hutapea', 'Perempuan', 'Jl. Jayawijaya No. 3
+Bekasi, Maluku 66975', 'betaniahabibi@example.com', '5339480681646');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000055', '1990-06-29', '12 DKV 2', 'drg. Endah Marbun', 'Perempuan', 'Jl. Astana Anyar No. 2
+Pariaman, Nusa Tenggara Barat 63171', 'zusada@example.net', '2747640402200');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000056', '2016-03-19', '10 PPLG 2', 'Panca Iswahyudi', 'Perempuan', 'Gang Moch. Toha No. 2
+Tebingtinggi, SG 30546', 'adhiarjautama@example.net', '1044755423955');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000057', '2010-10-15', '12 MPLB 5', 'Tedi Hardiansyah', 'Laki laki', 'Jalan M.T Haryono No. 005
+Blitar, DI Yogyakarta 81476', 'laswi25@example.com', '0836890516904');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000058', '1985-04-06', '11 PPLG 1', 'R. Yani Tarihoran, S.H.', 'Laki laki', 'Jl. Sadang Serang No. 4
+Tebingtinggi, GO 41779', 'wkurniawan@example.net', '6289541000258');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000059', '2010-11-06', '10 MPLB 1', 'dr. Panji Kuswoyo, M.TI.', 'Laki laki', 'Gg. Rumah Sakit No. 40
+Kota Administrasi Jakarta Barat, NB 95668', 'bhutagalung@example.net', '9907296881546');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000060', '2010-02-11', '10 PPLG 2', 'Fitria Wibisono, S.Ked', 'Laki laki', 'Jl. Jakarta No. 578
+Ambon, YO 82105', 'mzulaika@example.org', '1979514509539');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000061', '1994-01-04', '10 PPLG 3', 'Niyaga Waluyo', 'Laki laki', 'Gg. Kebonjati No. 891
+Sungai Penuh, Bali 92528', 'bakda31@example.com', '0515753294688');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000062', '1987-08-18', '11 PM 3', 'Prabawa Riyanti', 'Laki laki', 'Jl. Tubagus Ismail No. 8
+Batam, Maluku Utara 26498', 'jarwahidayat@example.org', '1599931988674');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000063', '2002-11-25', '11 PM 1', 'Tgk. Hafshah Hutagalung, M.TI.', 'Perempuan', 'Jalan Peta No. 721
+Depok, Kalimantan Selatan 37124', 'gsitompul@example.net', '2599866995499');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000064', '2013-05-26', '12 PPLG 1', 'Raden Wacana, S.Farm', 'Perempuan', 'Jl. Ciwastra No. 90
+Sabang, Kalimantan Tengah 90606', 'damaniktasdik@example.org', '2009857215020');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000065', '1988-12-08', '10 TJKT 5', 'Zulaikha Sihombing', 'Perempuan', 'Gg. Tubagus Ismail No. 984
+Serang, Nusa Tenggara Timur 56527', 'rahayu61@example.org', '5612763816884');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000066', '2011-11-21', '12 PPLG 2', 'Citra Pratiwi, S.T.', 'Laki laki', 'Gg. Rungkut Industri No. 272
+Banjar, Sulawesi Utara 95831', 'laksanahutagalung@example.com', '9310392081351');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000067', '1981-12-10', '11 PPLG 3', 'Caket Lestari', 'Perempuan', 'Gg. Ronggowarsito No. 4
+Banjar, Sulawesi Selatan 74696', 'yuliartihasim@example.com', '2113644861220');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000068', '1990-02-13', '12 PPLG 3', 'Ina Gunarto', 'Perempuan', 'Jalan Ronggowarsito No. 425
+Denpasar, JB 84696', 'jwaskita@example.org', '5697556966212');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000069', '2008-12-09', '10 PM 1', 'Cut Cinta Prasasta, S.Pt', 'Laki laki', 'Jalan PHH. Mustofa No. 2
+Cimahi, Sulawesi Tenggara 53383', 'cengkal97@example.net', '2563636062449');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000070', '2009-04-09', '11 OTKP 4', 'Jagapati Zulkarnain', 'Perempuan', 'Gg. Kiaracondong No. 26
+Meulaboh, Bengkulu 36674', 'daruhutapea@example.net', '8479144989107');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000071', '2015-07-26', '12 MPLB 5', 'Ghaliyati Pradana', 'Perempuan', 'Gg. Joyoboyo No. 175
+Lhokseumawe, Sulawesi Tenggara 37269', 'lasmantoardianto@example.org', '6126510466209');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000072', '1974-02-25', '12 TJKT 1', 'Karta Anggraini', 'Laki laki', 'Gang Rungkut Industri No. 388
+Sukabumi, PA 53178', 'prastuticakrajiya@example.net', '6387506506940');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000073', '1992-08-25', '10 PPLG 3', 'Harjaya Wacana, S.T.', 'Laki laki', 'Gg. Ronggowarsito No. 943
+Denpasar, Nusa Tenggara Timur 77788', 'enasyiah@example.net', '4558137060258');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000074', '1982-09-30', '10 OTKP 1', 'R. Faizah Puspasari, S.Pt', 'Perempuan', 'Jalan Waringin No. 64
+Tangerang Selatan, Sulawesi Tengah 15634', 'hani27@example.org', '7912432998324');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000075', '1972-12-22', '12 MPLB 4', 'Mursinin Marpaung', 'Perempuan', 'Gang Rawamangun No. 66
+Metro, LA 28683', 'cemplunkdamanik@example.org', '8673984669935');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000076', '1973-05-31', '12 DKV 3', 'Catur Megantara', 'Perempuan', 'Jl. Suryakencana No. 951
+Kota Administrasi Jakarta Barat, KR 25197', 'drajat30@example.org', '2913417158170');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000077', '1992-05-21', '11 OTKP 3', 'Cemplunk Pratama', 'Perempuan', 'Gang Sadang Serang No. 6
+Tasikmalaya, GO 36982', 'jaya80@example.net', '2135588107097');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000078', '2010-06-15', '10 MPLB 4', 'Balangga Prabowo', 'Laki laki', 'Jl. Veteran No. 521
+Bukittinggi, Bali 69981', 'raditya84@example.org', '1829801797202');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000079', '2023-03-03', '11 DKV 5', 'Drs. Rachel Nababan, M.Pd', 'Laki laki', 'Jl. Erlangga No. 14
+Kota Administrasi Jakarta Timur, GO 74393', 'hardanadongoran@example.org', '5910739185498');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000080', '2012-01-03', '11 TJKT 4', 'Puput Nababan, S.Kom', 'Perempuan', 'Jalan Sadang Serang No. 211
+Gorontalo, BE 99845', 'warjibudiyanto@example.com', '9487993914773');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000081', '1991-08-11', '12 MPLB 3', 'Jatmiko Saragih', 'Perempuan', 'Gg. Tubagus Ismail No. 93
+Surabaya, KB 10625', 'snamaga@example.com', '2504759819127');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000082', '1997-10-17', '11 OTKP 5', 'Adinata Pradipta', 'Perempuan', 'Jl. Ciwastra No. 42
+Malang, AC 40371', 'galangdamanik@example.com', '9110783287601');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000083', '1980-05-26', '11 DKV 5', 'Melinda Prastuti, S.H.', 'Perempuan', 'Jl. KH Amin Jasuta No. 46
+Kediri, Sulawesi Barat 74777', 'nyoman51@example.net', '9107637203904');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000084', '2009-07-11', '12 PM 5', 'Estiawan Pratama', 'Perempuan', 'Jl. Otto Iskandardinata No. 56
+Banda Aceh, Lampung 02517', 'emashutasoit@example.net', '4715532619351');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000085', '2018-01-20', '10 PM 1', 'Indah Tarihoran', 'Perempuan', 'Jl. Ciumbuleuit No. 56
+Pangkalpinang, SU 10036', 'gramadan@example.net', '8785918487015');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000086', '1996-05-06', '11 TJKT 4', 'KH. Darmana Nainggolan', 'Perempuan', 'Gang Antapani Lama No. 321
+Kendari, DKI Jakarta 45582', 'mpradana@example.net', '3577603200716');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000087', '2012-05-16', '11 TJKT 2', 'Emin Winarno, S.Kom', 'Perempuan', 'Gg. Cikutra Timur No. 36
+Sukabumi, Aceh 32068', 'wibisonokayla@example.org', '4746952130668');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000088', '1998-03-03', '11 PPLG 2', 'Ayu Prasasta, M.Farm', 'Laki laki', 'Gg. Gardujati No. 3
+Bontang, Bengkulu 34434', 'ramadanrahman@example.org', '7594736329078');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000089', '2003-10-11', '12 TJKT 5', 'Gamani Prasetyo', 'Perempuan', 'Gang Sukabumi No. 30
+Bima, SS 81131', 'hgunawan@example.org', '9841239092884');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000090', '1992-01-19', '12 MPLB 1', 'Gatot Maulana', 'Perempuan', 'Jalan Ahmad Yani No. 6
+Banjarmasin, Sulawesi Barat 75818', 'uwibisono@example.net', '5403885246579');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000091', '2010-01-16', '10 PPLG 3', 'Najam Andriani', 'Laki laki', 'Jl. Suryakencana No. 89
+Solok, Gorontalo 49411', 'kenziegunarto@example.net', '2804166336061');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000092', '2001-03-06', '10 MPLB 4', 'Dr. Faizah Wacana, M.M.', 'Perempuan', 'Jalan Ahmad Dahlan No. 624
+Solok, SR 51152', 'upuspita@example.net', '5372437125767');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000093', '1995-07-01', '12 PPLG 3', 'Gilda Hariyah', 'Laki laki', 'Jalan Peta No. 15
+Kota Administrasi Jakarta Barat, Nusa Tenggara Timur 13694', 'mulyanto15@example.org', '5753568554940');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000094', '1998-05-04', '12 DKV 2', 'Asmianto Maryadi', 'Perempuan', 'Gang Jend. A. Yani No. 9
+Samarinda, JI 84204', 'tirtayasausada@example.org', '1124998537112');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000095', '1979-09-19', '11 DKV 1', 'Damu Suwarno', 'Laki laki', 'Jalan R.E Martadinata No. 763
+Palopo, KB 60786', 'ywinarsih@example.net', '0763596314946');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000096', '1983-01-23', '12 PPLG 4', 'Ir. Olivia Wacana', 'Laki laki', 'Gg. Cihampelas No. 366
+Kediri, Sulawesi Selatan 95868', 'anggrainikamaria@example.com', '8284163589864');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000097', '1991-04-25', '12 PPLG 3', 'Jaswadi Mangunsong', 'Perempuan', 'Jl. Wonoayu No. 343
+Kendari, JA 05786', 'chutapea@example.com', '0975289467871');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000098', '2002-12-10', '12 TJKT 3', 'Asmuni Fujiati', 'Laki laki', 'Gg. W.R. Supratman No. 7
+Kota Administrasi Jakarta Barat, Papua Barat 73205', 'egunarto@example.org', '4081802467471');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000099', '1998-04-27', '12 PPLG 3', 'Oliva Nuraini', 'Perempuan', 'Gang Cempaka No. 734
+Pagaralam, Sulawesi Tenggara 81390', 'kuswandariwarsa@example.net', '7610824201728');
+INSERT INTO tbl_siswa (id_siswa, tanggal_daftar, kelas, nama_lengkap, jenis_kelamin, alamat, email, whatsapp) VALUES ('00000100', '2009-04-24', '11 TJKT 3', 'Gawati Halim', 'Laki laki', 'Jalan Sukajadi No. 63
+Metro, Sumatera Barat 46099', 'marwata02@example.org', '3603349941140');
